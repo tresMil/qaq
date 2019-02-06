@@ -1,0 +1,92 @@
+#EXTM3U
+
+#EXTINF:0,ES | BEIN SPORTS ʜᴅ
+#EXTVLCOPT:network-caching=1000
+http://wildsides.xyz:2086/live/jim/jim/28735.m3u8
+#EXTINF:0,ES | BOOMERANG ʜᴅ
+#EXTVLCOPT:network-caching=1000
+http://wildsides.xyz:2086/live/jim/jim/28734.m3u8
+#EXTINF:0,ES | CGTN 40 ʜᴅ
+#EXTVLCOPT:network-caching=1000
+http://wildsides.xyz:2086/live/jim/jim/29642.m3u8
+#EXTINF:0,ES | CINEMA DINAMITA ʜᴅ
+#EXTVLCOPT:network-caching=1000
+http://wildsides.xyz:2086/live/jim/jim/28724.m3u8
+#EXTINF:0,ES | DISCOVERY KIDS ʜᴅ
+#EXTVLCOPT:network-caching=1000
+http://wildsides.xyz:2086/live/jim/jim/28716.m3u8
+#EXTINF:0,ES | DISNEY CHANNEL ʜᴅ
+#EXTVLCOPT:network-caching=1000
+http://wildsides.xyz:2086/live/jim/jim/28712.m3u8
+#EXTINF:0,ES | DISNEY JUNIOR ʜᴅ
+#EXTVLCOPT:network-caching=1000
+http://wildsides.xyz:2086/live/jim/jim/28711.m3u8
+#EXTINF:0,ES | DISNEY XD NORTE ʜᴅ
+#EXTVLCOPT:network-caching=1000
+http://wildsides.xyz:2086/live/jim/jim/28710.m3u8
+#EXTINF:0,ES | DISTRITO COMEDIA ʜᴅ
+#EXTVLCOPT:network-caching=1000
+http://wildsides.xyz:2086/live/jim/jim/28709.m3u8
+#EXTINF:0,ES | DW AMERICA ʜᴅ
+#EXTVLCOPT:network-caching=1000
+http://wildsides.xyz:2086/live/jim/jim/28708.m3u8
+#EXTINF:0,ES | FOX DEPORTES ʜᴅ
+#EXTVLCOPT:network-caching=1000
+http://wildsides.xyz:2086/live/jim/jim/28697.m3u8
+#EXTINF:0,ES | FX ʜᴅ
+#EXTVLCOPT:network-caching=1000
+http://wildsides.xyz:2086/live/jim/jim/28692.m3u8
+#EXTINF:0,ES | GOLDEN MULTIPLEX ʜᴅ
+#EXTVLCOPT:network-caching=1000
+http://wildsides.xyz:2086/live/jim/jim/28689.m3u8
+#EXTINF:0,ES | GOLDEN PREMIER ʜᴅ
+#EXTVLCOPT:network-caching=1000
+http://wildsides.xyz:2086/live/jim/jim/28687.m3u8
+#EXTINF:0,ES | HBO 2 ʜᴅ
+#EXTVLCOPT:network-caching=1000
+http://wildsides.xyz:2086/live/jim/jim/28685.m3u8
+#EXTINF:0,ES | HBO ʜᴅ
+#EXTVLCOPT:network-caching=1000
+http://wildsides.xyz:2086/live/jim/jim/28681.m3u8
+#EXTINF:0,ES | MTV HITS ʜᴅ
+#EXTVLCOPT:network-caching=1000
+http://wildsides.xyz:2086/live/jim/jim/28669.m3u8
+#EXTINF:0,ES | NICK JR ʜᴅ
+#EXTVLCOPT:network-caching=1000
+http://wildsides.xyz:2086/live/jim/jim/28661.m3u8
+#EXTINF:0,ES | NICKELODEON ʜᴅ
+#EXTVLCOPT:network-caching=1000
+http://wildsides.xyz:2086/live/jim/jim/28660.m3u8
+#EXTINF:0,ES | TCM ʜᴅ
+#EXTVLCOPT:network-caching=1000
+http://wildsides.xyz:2086/live/jim/jim/28653.m3u8
+#EXTINF:0,ES | TELECAFE ʜᴅ
+#EXTVLCOPT:network-caching=1000
+http://wildsides.xyz:2086/live/jim/jim/28649.m3u8
+#EXTINF:0,ES | TELEMAX ʜᴅ
+#EXTVLCOPT:network-caching=1000
+http://wildsides.xyz:2086/live/jim/jim/28648.m3u8
+#EXTINF:0,ES | TELEMUNDO ʜᴅ
+#EXTVLCOPT:network-caching=1000
+http://wildsides.xyz:2086/live/jim/jim/28646.m3u8
+#EXTINF:0,ES | TNT SERIES ʜᴅ
+#EXTVLCOPT:network-caching=1000
+http://wildsides.xyz:2086/live/jim/jim/28642.m3u8
+#EXTINF:0,ES | UNIVISION DEPORTES ʜᴅ
+#EXTVLCOPT:network-caching=1000
+http://wildsides.xyz:2086/live/jim/jim/28637.m3u8
+#EXTINF:0,ES | UNIVISION ʜᴅ
+#EXTVLCOPT:network-caching=1000
+http://wildsides.xyz:2086/live/jim/jim/28636.m3u8
+#EXTINF:-1,Unknown 
+http://184.173.181.2:1935/8042/8042/playlist.m3u8
+#EXTINF:-1,Unknown 
+http://184.173.181.2:1935/8044/8044/playlist.m3u8
+#EXTINF:-1,Unknown 
+http://184.173.181.2:1935/8046/8046/playlist.m3u8
+#EXTINF:-1,Unknown 
+http://184.173.181.2:1935/8072/8072/playlist.m3u8
+#EXTINF:-1,Unknown 25
+http://184.173.181.2:1935/8076/8076/playlist.m3u8
+#EXTINF:1, Micro VISION
+http://190.103.183.24:1935/live/MicroHD/media_w1864019893.m3u8
